@@ -3,12 +3,14 @@ import styled, { keyframes } from "styled-components";
 import InputMask from "react-input-mask";
 import { ErrorModal, SuccessModal } from "../../components/Modal";
 import alunosData from "../../data/alunos.json";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 const Container = styled.div`
   display: flex;
   flex-direction: row;
   align-items: stretch;
-  height: 100vh;
+  height: 80vh;
   background-color: #282c34;
   color: white;
   overflow: hidden;
@@ -110,6 +112,7 @@ const CapturedImageContainer = styled.div`
 const CapturedImage = styled.img`
   max-width: 100%;
   height: auto;
+  transform: scaleX(-1); 
   border-radius: 8px;
 `;
 
@@ -181,6 +184,7 @@ const CameraCapture = () => {
   const canvasRef = useRef();
   const [imageSrc, setImageSrc] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [modalMessage,setModalMessage] = useState("")
   const [formData, setFormData] = useState({
     nome: "",
     cpf: "",
@@ -188,6 +192,7 @@ const CameraCapture = () => {
     curso: "Sistemas de Informação",
   });
   const [errors, setErrors] = useState({});
+  console.log(errors)
   const [usingFrontCamera, setUsingFrontCamera] = useState(true);
   const [capturedImage, setCapturedImage] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -301,7 +306,8 @@ const CameraCapture = () => {
   
       if (!response.ok) {
         // Se a resposta não for bem-sucedida, trate o erro aqui
-        throw new Error('Erro ao enviar os dados. Código de status: ' + response.status);
+        console.log(response)
+        throw new Error('Erro ao enviar os dados. Matricula ou rosto já cadastrados. Código de status: ' + response.status);
       }
   
       setIsSubmitting(false);
@@ -312,6 +318,7 @@ const CameraCapture = () => {
       setIsSubmitting(false);
       setIsModalOpen(true);
       setModalType("error");
+      setModalMessage(error?.message)
     }
   };
   
@@ -357,10 +364,12 @@ const CameraCapture = () => {
     startVideo(usingFrontCamera); 
   }
   return (
+    <>
+      <Header/>
     <Container>
       <FormContainer>
         <Form>
-        <Title>AMF Games Presença</Title>
+        <Title>Insira seus dados:</Title>
         <AlertBox>
           <InfoIcon>&#9432;</InfoIcon>
           <MessageText>
@@ -388,6 +397,7 @@ const CameraCapture = () => {
             id="nome"
             name="nome"
             value={formData.nome}
+            onChange={handleChange}
             required
             placeholder="..."
           />
@@ -461,12 +471,14 @@ const CameraCapture = () => {
         )}
       </VideoContainer>
         {isModalOpen && modalType === "error" && (
-        <ErrorModal onClose={() => setIsModalOpen(false)} />
+        <ErrorModal onClose={() => setIsModalOpen(false)} errorMsg={modalMessage}/>
         )}
         {isModalOpen && modalType === "success" && (
           <SuccessModal onClose={() => setIsModalOpen(false)} clearForm={clearForm}/>
         )}
     </Container>
+    <Footer/>
+    </>
   );
 };
 

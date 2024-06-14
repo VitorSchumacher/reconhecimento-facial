@@ -23,6 +23,7 @@ const ModalContent = styled.div`
   justify-content: center;
   width: 30%;
   flex-direction: column;
+  text-align: center;
 `;
 
 const Button = styled.button`
@@ -39,11 +40,12 @@ const Button = styled.button`
   }
 `;
 
-export const ErrorModal = ({ onClose }) => (
+export const ErrorModal = ({ onClose, errorMsg }) => (
   <Modal>
     <ModalContent>
       <h2>Erro</h2>
-      <p>Ocorreu um erro ao enviar os dados.</p>
+      <p>Ocorreu um erro ao enviar os dados:</p>
+      <p>{errorMsg}</p>
       <Button onClick={onClose}>Fechar</Button>
     </ModalContent>
   </Modal>
