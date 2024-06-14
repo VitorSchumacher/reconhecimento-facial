@@ -40,7 +40,6 @@ const Label = styled.label`
 const Input = styled.input`
   margin-bottom: 15px;
   padding: 8px;
-  width: 100%;
   border: 1px solid #ccc;
   border-radius: 4px;
 `;
@@ -54,7 +53,7 @@ const Select = styled.select`
 `;
 
 const Button = styled.button`
-  padding: 10px 20px;
+  padding: 15px 75px;
   background-color: #9acd32;
   color: #1b1f23;
   border: none;
@@ -62,7 +61,6 @@ const Button = styled.button`
   cursor: pointer;
   margin-top: 10px;
   display: flex;
-  align-itens: center;
   justify-content: center;
 
   &:hover {
@@ -105,9 +103,50 @@ const Video = styled.video`
   border-radius: 8px;
 `;
 
+const Title = styled.h2`
+  color: #9acd32;
+  text-align: center;
+  width:100%;
+  font-size: 24px;
+  margin-bottom: 5%;
+`;
+
+// Estilo para a mensagem informativa
+const InfoMessage = styled.div`
+  background-color: #282c34;
+  border: 1px solid #9acd32;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 20px;
+`;
+
+const MessageText = styled.p`
+  color: #fff;
+`;
 const ErrorMessage = styled.div`
   color: red;
   margin-bottom: 15px;
+`;
+
+const DivButton = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+`
+const AlertBox = styled.div`
+  background-color: #282c34;
+  border: 1px solid #9acd32;
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+`;
+const InfoIcon = styled.span`
+  font-size: 20px;
+  color: #9acd32;
+  margin-right: 10px;
 `;
 
 const CameraCapture = () => {
@@ -178,7 +217,7 @@ const CameraCapture = () => {
   const validateForm = () => {
     const newErrors = {};
 
-    if (!formData.nome || !/^[A-Za-z\s]{1,50}$/.test(formData.nome)) {
+    if (!formData.nome) {
       newErrors.nome =
         "Nome deve conter apenas letras e ser no máximo 50 caracteres.";
     }
@@ -294,7 +333,15 @@ const CameraCapture = () => {
     <Container>
       <FormContainer>
         <Form>
-          <Label htmlFor="matricula">Matrícula:</Label>
+        <Title>AMF Games Presença</Title>
+        <AlertBox>
+          <InfoIcon>&#9432;</InfoIcon>
+          <MessageText>
+            O nome e o curso serão preenchidos automaticamente após o
+            preenchimento do RA.
+          </MessageText>
+        </AlertBox>
+          <Label htmlFor="matricula">Matrícula(RA):</Label>
           <Input
             type="text"
             id="matricula"
@@ -315,7 +362,7 @@ const CameraCapture = () => {
             name="nome"
             value={formData.nome}
             required
-            placeholder="O nome será buscado automaticamente pelo seu RA"
+            placeholder="..."
           />
           {errors.nome && <ErrorMessage>{errors.nome}</ErrorMessage>}
 
@@ -343,16 +390,17 @@ const CameraCapture = () => {
             <option value="Pedagogia">Pedagogia</option>
             <option value="Direito">Direito</option>
             <option value="Hotelaria">Hotelaria</option>
-            <option value="Ciências Contáveis">Ciências Contáveis</option>
+            <option value="Ciências Contábeis">Ciências Contáveis</option>
             <option value="Gastronomia">Gastronomia</option>
             <option value="Ontopsicologia">Ontopsicologia</option>
             <option value="Administração">Administração</option>
           </Select>
           {errors.curso && <ErrorMessage>{errors.curso}</ErrorMessage>}
-
-          <Button type="button" onClick={sendImageToBackend} disabled={isSubmitting}>
-            {isSubmitting ? <Spinner /> : 'Enviar'}
-          </Button>
+          <DivButton>
+            <Button type="button" onClick={sendImageToBackend} disabled={isSubmitting}>
+              {isSubmitting ? <Spinner /> : 'Enviar'}
+            </Button>
+          </DivButton>
         </Form>
       </FormContainer>
 
