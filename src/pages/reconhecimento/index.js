@@ -167,22 +167,35 @@ const CameraCapture = () => {
     return Object.keys(newErrors).length === 0;
   };
 
+  const base64ToFile = (base64String, filename) => {
+    const arr = base64String.split(',');
+    const mime = arr[0].match(/:(.*?);/)[1];
+    const bstr = atob(arr[1]);
+    let n = bstr.length;
+    const u8arr = new Uint8Array(n);
+    while (n--) {
+      u8arr[n] = bstr.charCodeAt(n);
+    }
+    return new File([u8arr], filename, { type: mime });
+  };
+  
   const sendImageToBackend = async () => {
     if (!validateForm()) return;
-
-    const blob = await fetch(imageSrc).then((res) => res.blob());
+  
+    const file = base64ToFile(imageSrc, 'captured.png');
+    console.log("🚀 ~ sendImageToBackend ~ file:", file)
     const data = new FormData();
-    data.append("image", blob, "captured.png");
-    data.append("nome", formData.nome);
-    data.append("cpf", formData.cpf);
-    data.append("matricula", formData.matricula);
-    data.append("curso", formData.curso);
-
-    const response = await fetch("http://localhost:5000/upload", {
-      method: "POST",
+    data.append('imagem', file);
+    data.append('nome', formData.nome);
+    data.append('cpf', formData.cpf);
+    data.append('matricula', formData.matricula);
+    data.append('curso', formData.curso);
+  
+    const response = await fetch('http://localhost:3005/salvar-aluno', {
+      method: 'POST',
       body: data,
     });
-
+  
     const result = await response.text();
     console.log(result);
   };
