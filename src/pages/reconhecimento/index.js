@@ -194,6 +194,9 @@ const CameraCapture = () => {
     if (!formData.curso) {
       newErrors.curso = "Curso é obrigatório.";
     }
+    if (!imageSrc) {
+      newErrors.imageSrc = "Imagem é obrigatório.";
+    }
 
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
