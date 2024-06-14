@@ -1,0 +1,5060 @@
+{
+  "Sheet": [
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Alerhandra Cunha Pentiado",
+      "RA": "005114"
+
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Alex Bisello Cargnin",
+      "RA": "007631"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Alice Thumé Martins",
+      "RA": "007176"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Alice Vargas da Silva",
+      "RA": "007374"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Alice Vasconcelos Bolzan",
+      "RA": "004567"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Amanda Roos da Costa",
+      "RA": "007590"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Amanda Schramm Vontobel",
+      "RA": "005230"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Anderson de Souza Boff",
+      "RA": "004677"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Andrieli Luana Böck",
+      "RA": "004557"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Anna Carolina Lorenzi Seeger",
+      "RA": "005448"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Antonia Visintainer Saccol",
+      "RA": "006150"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Ariane Machado Cardoso",
+      "RA": "004541"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Arthur Casanova Vilaverde Gomes",
+      "RA": "004731"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Arthur Lopes Savedra",
+      "RA": "003973"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Arthur Luiz Gazen de David",
+      "RA": "007649"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Augusto Horquen Martins",
+      "RA": "007694"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Beatriz Antunes Oliveira",
+      "RA": "006570"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Bernardo Peixoto Fortes Bittencourt",
+      "RA": "007126"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Braian da Silva Gonçalves",
+      "RA": "007186"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Bruna Drescher Link",
+      "RA": "006285"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Bruna Peserico",
+      "RA": "006219"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Bruno Flores Martins",
+      "RA": "005959"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Bruno Wesner Bullé",
+      "RA": "003171"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Camilli Bressa",
+      "RA": "005089"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Carolina dos Anjos Casarotto",
+      "RA": "007011"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Caroline da Silva Moreira",
+      "RA": "007117"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Cauê Bicca Vieira",
+      "RA": "004340"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Christian Edilson de Carvalho",
+      "RA": "006207"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Chrystian Persich Togni",
+      "RA": "004745"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Cícero da Silva Grutzmacher",
+      "RA": "007687"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Cristian Alberto Milbradt",
+      "RA": "004441"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Cristiano Luciano Pozzebon",
+      "RA": "004558"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Daniel Martins D' Aquino",
+      "RA": "005697"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Délmer Rosa dos Santos",
+      "RA": "007414"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Dhara Gularte Figueredo",
+      "RA": "006287"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Doris Billig Pozzebon",
+      "RA": "007620"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Douglas Höehr Trindade",
+      "RA": "005259"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Douglas Junior Rosa de Vargas",
+      "RA": "006356"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Edelmiro Pereira Gomes Neto",
+      "RA": "003610"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Eduarda Lazzarotto de Mello Moreira",
+      "RA": "004463"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Eduarda Perez Vissotto",
+      "RA": "007110"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Eduarda Richardt",
+      "RA": "007034"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Eduardo José Tronco",
+      "RA": "003778"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Elisa Mathias Fialho",
+      "RA": "004058"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Eloisa Forsch Schiefelbein",
+      "RA": "006791"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Emerson de Siqueira Santos",
+      "RA": "004489"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Endrik Dias Friedrich",
+      "RA": "007422"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Erica Teixeira de Almeida",
+      "RA": "007800"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Estéfano de Souza Pippi",
+      "RA": "007582"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Everaldo Edir Guse",
+      "RA": "004398"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Fabiana Soares Soares",
+      "RA": "007561"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Fabiano de Souza Gonçalves",
+      "RA": "007417"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Felipe Dorneles Silveira",
+      "RA": "007000"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Felipe Fontoura Flôres",
+      "RA": "007718"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Felipe Liberalesso",
+      "RA": "004663"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Fernanda Aparecida Tozo",
+      "RA": "006793"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Flávia da Rosa Gonçalves",
+      "RA": "005249"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Flaviane Silva Rodrigues",
+      "RA": "006886"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Francis Roberto dos Passos Machado",
+      "RA": "006082"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriel Brezolin Dutra",
+      "RA": "006336"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriel de Melo Rocha da Silva",
+      "RA": "003583"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriel Fontana Stangherlin",
+      "RA": "007817"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriel Josué Pfüller",
+      "RA": "006168"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriel Schuller Orlandi",
+      "RA": "006385"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriela Dorneles Döring",
+      "RA": "007813"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabriela Estivalet de Lima",
+      "RA": "004571"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabrieli Fernandes da Silva",
+      "RA": "006556"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gabrieli Graeff de Miranda",
+      "RA": "007569"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Geraldo Adalberto Portella Schulz",
+      "RA": "004319"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Giovana Gladis Ernst",
+      "RA": "007092"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Guilherme Ferreira dos Santos",
+      "RA": "004454"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Guilherme Ribeiro Lemos",
+      "RA": "007820"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Guilherme Vijande Garbin",
+      "RA": "005920"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Guillenn Ive Barreto Ferreira",
+      "RA": "006890"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gustavo Bisognin Pinheiro",
+      "RA": "006982"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Gustavo Scotta",
+      "RA": "006233"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Humberto Scota Júnior",
+      "RA": "007242"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Igor Baggio Pereira",
+      "RA": "007406"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Igor Braga Ferret",
+      "RA": "005436"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Isabelle Souto Niveyro",
+      "RA": "005128"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Isabely Rodrigues Gomes",
+      "RA": "005666"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Isadora Alves Ribeiro de Godoy",
+      "RA": "007256"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Isadora Cezar Martins",
+      "RA": "007121"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Jéssica Vargas Wander",
+      "RA": "003056"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Augusto Padilha",
+      "RA": "007371"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João D'avila Blos",
+      "RA": "007382"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Luis Machado de Carvalho",
+      "RA": "007397"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Pedro Andres Trojahn",
+      "RA": "006232"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Pedro Fernandes Garcia",
+      "RA": "007782"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Victor Dutra Lock",
+      "RA": "006304"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Vitor Machado Schunke",
+      "RA": "007576"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "João Vítor Pereira Bordignon",
+      "RA": "007266"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Jonathan Gonçalves Possa",
+      "RA": "005291"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Jordana Soares dos Santos",
+      "RA": "007583"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "José Antonio Schmitz Milanesi",
+      "RA": "007753"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "José Pedro Cordero",
+      "RA": "006149"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Josias Gustavo dos Santos",
+      "RA": "006093"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Josiel Nunes Alves",
+      "RA": "007747"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Júlia Alves do Nascimento",
+      "RA": "007596"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Julia da Silva Parcianello",
+      "RA": "005100"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Julia Santoni Lunardi",
+      "RA": "006302"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Juliany Freese Maciel",
+      "RA": "006306"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Júnior Gilson de Lima",
+      "RA": "005162"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Junior Steffanello Cocco",
+      "RA": "006377"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Kamilly Teixeira Marques",
+      "RA": "006962"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Karen França Silva",
+      "RA": "006981"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Kauã Francisco Rico de Lima",
+      "RA": "007249"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Laion Ferraz da Silva",
+      "RA": "005875"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Larissa Dotto Baum",
+      "RA": "006714"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Larissa Goulart Becker",
+      "RA": "006103"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Lauane Gabriele Dickow",
+      "RA": "007170"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Laura Ana Temp",
+      "RA": "007002"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Laura Eduarda dos Santos Mundt",
+      "RA": "007134"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Lavínia Berro Passamani",
+      "RA": "007189"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Leonardo Dutra Tagliapietra",
+      "RA": "005194"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Leonardo Stangherlin",
+      "RA": "004640"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Letice dos Santos Flores",
+      "RA": "006487"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Lucas Candaten Guirland",
+      "RA": "006621"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Lúcia Scota Bernardes",
+      "RA": "006239"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luis Eduardo Amaral Pereira",
+      "RA": "006578"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luis Eduardo de Andrade da Rosa",
+      "RA": "003959"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luis Fernando Machado Oliveira",
+      "RA": "004767"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luís Guilherme Amaro Silva",
+      "RA": "004346"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luísa Antunes Freij",
+      "RA": "007790"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luiz Felipe Müller Hoppe",
+      "RA": "006386"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luiza Lampert Diniz",
+      "RA": "004510"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luiza Silveira da Silva",
+      "RA": "003585"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Luma Almeida Malezan",
+      "RA": "005136"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Maicon Garcia",
+      "RA": "006355"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Maicon Vinicios Blasi",
+      "RA": "007553"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Marcello Kilian de Azevedo Junior",
+      "RA": "006571"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "María Victoria Amado Budes",
+      "RA": "007383"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Martha Pereira Streck",
+      "RA": "005973"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Mateus Jarosczniski de Cassenote",
+      "RA": "005930"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Mateus Marzzari",
+      "RA": "003139"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Mateus Sulzbacher Toller",
+      "RA": "005229"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Matheus dos Santos Saccol",
+      "RA": "006375"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Matheus Gediel Ferreira",
+      "RA": "006949"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Matheus Lanes de Oliveira",
+      "RA": "006106"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Matheus Rossi Carvalho",
+      "RA": "005224"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Matias Bolzan",
+      "RA": "007632"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Miguel Gardin Scapin",
+      "RA": "007710"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Miguel Quinteiro Poletto",
+      "RA": "006883"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Mikhael Kühler Herberts",
+      "RA": "006785"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Moacir Francisco Muraro",
+      "RA": "004720"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Moacyr Coccaro Rodrigues Neto",
+      "RA": "005184"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Nadiesca Graebner Cavalheiro",
+      "RA": "006116"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Natana Brondani Bortolin",
+      "RA": "007202"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Nathalia Yasmin Reiner Albrecht",
+      "RA": "004460"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Nicolas Peron Boge",
+      "RA": "007088"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Nícolas Turri Carvalho",
+      "RA": "006977"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Nicole Bernardes de Souza",
+      "RA": "006110"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Onildo Henrique Moreira de Freitas",
+      "RA": "005182"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Otávio Sari Trevisan",
+      "RA": "007206"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Pablo Busanello dos Santos",
+      "RA": "007520"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Patrícia Farenzena Panziera",
+      "RA": "006195"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Patrícia Israel da Silva",
+      "RA": "006159"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Paulo Marcelo Baum",
+      "RA": "004603"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Paulo Ricardo Ozório Gaira",
+      "RA": "007413"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Pedro Soares Possobon",
+      "RA": "004836"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Peri Rocha Santos",
+      "RA": "006778"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Pietro Batistella Guerra",
+      "RA": "006629"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rafael dos Santos Vargas",
+      "RA": "004761"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rafael Schepp Pincolini",
+      "RA": "006564"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rafael Schmidt Viega",
+      "RA": "005454"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rafaela Jappe",
+      "RA": "005222"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rayane Sielo Felin",
+      "RA": "004025"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Renan Soares",
+      "RA": "004163"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Richard de Campos Leal",
+      "RA": "006986"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rodrigo Martins Espinosa Filho",
+      "RA": "005332"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Rossandra Santos Killian",
+      "RA": "003006"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Samuel Leonardo Machado Herkert",
+      "RA": "003476"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Sofia Coradini Rodrigues",
+      "RA": "007323"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Tairã Gilson da Silveira Gonçalves",
+      "RA": "007391"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Tamires Talia Steyding",
+      "RA": "007755"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Tatiane Zuliani Moro",
+      "RA": "004072"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Tauany Bernardy",
+      "RA": "007082"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Thâmili Tauane Soares de Bitencourt",
+      "RA": "006252"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Tifani Corrêa Silva",
+      "RA": "005130"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Vanez Ribeiro Bitencourt",
+      "RA": "005392"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Victor Matheus Cerezer Uliana",
+      "RA": "005522"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Vinicius Moreira Pinto",
+      "RA": "007169"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Vinicius Ribas Paim",
+      "RA": "006826"
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Vitor Bellé Cantarelli",
+      "RA": "004327"
+    
+    },
+    {
+      "CURSO": "Administração",
+      "ALUNO": "Willian Luis Grohe Goulart",
+      "RA": "006088"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Alexsander Berger",
+      "RA": "006117"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Ana Paula Guerra Cabral",
+      "RA": "005219"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Analice Cassol Secretti",
+      "RA": "006180"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Anderson Darlei Mahlke Alves",
+      "RA": "003024"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Andressa Ellwanger",
+      "RA": "006217"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Ândrio Freitas de Andrade",
+      "RA": "007659"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Antonio Moura da Paixão",
+      "RA": "006912"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Any Paola Hackbarth Vieira",
+      "RA": "007703"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Brenda Monego Gass",
+      "RA": "006123"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Bruno Possebon",
+      "RA": "005221"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Caroline Luana Schroeder",
+      "RA": "006129"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Christiane Quatrin",
+      "RA": "005172"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Christopher da Silva Mayer",
+      "RA": "006964"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Daniel Ricardo Sanfelice",
+      "RA": "007420"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Dienifer Thaís Ristow",
+      "RA": "007660"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Douglas Knirsch Fantinel",
+      "RA": "005276"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Eduarda Segabinazzi",
+      "RA": "005120"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Eduardo Rodrigues Liberalesso",
+      "RA": "006552"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Eliane Taís da Silva Rossato",
+      "RA": "007627"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Elisângela Beskow",
+      "RA": "004092"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Emanuelle Prado Bittencourt",
+      "RA": "006630"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Émilly Cristhini Staffen Alves",
+      "RA": "007032"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Gabriele Kleinert",
+      "RA": "005299"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Gedson Peres da Silva",
+      "RA": "007211"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Henrique da Silva Proença",
+      "RA": "007203"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Igor dos Santos da Silva",
+      "RA": "007387"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Isaac Fardin Alves",
+      "RA": "006466"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Isadora Martim Lanza",
+      "RA": "007370"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Izadora Correia Pichini Grimm",
+      "RA": "006184"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "João Pedro Fuzer",
+      "RA": "005957"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "João Pedro Zanon da Rosa",
+      "RA": "007132"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Jucelem Höehr Trindade",
+      "RA": "005689"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Júlia Becker",
+      "RA": "005140"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Júlia Marzari Barbieri",
+      "RA": "007633"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Juliana Catto Cherobini",
+      "RA": "006095"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Juliana Haupt",
+      "RA": "006465"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Katiele Londero Grendene",
+      "RA": "006555"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Keilla Rodrigues Marasca",
+      "RA": "005179"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Kelly Bresolin Scolari",
+      "RA": "005237"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Letícia Fátima Pereira da Silva",
+      "RA": "007151"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Liana Friedrich",
+      "RA": "006786"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Lidiane Fagan Rossato",
+      "RA": "006112"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Lorenzo Kiefer Vendrusculo",
+      "RA": "007592"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Lucas Rodrigues",
+      "RA": "004682"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Luís Henrique Cassol",
+      "RA": "007645"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Luiz Carlos Borges Mohr Filho",
+      "RA": "006892"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Manuella Renner Bueno",
+      "RA": "007728"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Maria Gabriela Bortolotto Ceolin",
+      "RA": "007366"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Maria Júlia Santos Lang",
+      "RA": "006364"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Marília Magalhães dos Santos",
+      "RA": "007671"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Matheus Rubin Canha",
+      "RA": "006700"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Matias João Pauletto",
+      "RA": "005943"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Mauren Perla Scoto Ferreira",
+      "RA": "006933"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Micael Bittencourt dos Passos",
+      "RA": "007418"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Nadia Aline Wachholz",
+      "RA": "007580"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Nadine Milanesi Trindade",
+      "RA": "004673"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Nátaly Clara Cassel",
+      "RA": "007183"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Nathalia Cielo Dellamea",
+      "RA": "007433"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Nathalia Rossato Binotto",
+      "RA": "005193"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Nathana Franceschi Cocco",
+      "RA": "007756"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Phamella Vargas Carvalho",
+      "RA": "005451"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Richard Rodrigues Alves",
+      "RA": "007144"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Sabrina Fagundes dos Santos",
+      "RA": "007807"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Sabrina Luana Pauli Kohlhamer",
+      "RA": "006240"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Samara Fardin",
+      "RA": "006140"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Sandra Cinara da Silva Brite",
+      "RA": "006548"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Suzana Aline Block",
+      "RA": "005343"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Taiane Kétlin Martinazzo",
+      "RA": "007111"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Talia Luceiro Marques",
+      "RA": "006885"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Tamara Taís Schneidt Serena",
+      "RA": "006166"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Thaís Cristina Rodrigues Marzari",
+      "RA": "005888"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Vanessa Ellwanger",
+      "RA": "006218"
+    
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Willyan da Silva Costa",
+      "RA": "006174"
+    },
+    {
+      "CURSO": "Ciências Contábeis",
+      "ALUNO": "Yuri Nunes dos Santos",
+      "RA": "006096"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Adelso Moreira Barreto Júnior",
+      "RA": "006794"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Adriana Rampelotto",
+      "RA": "004584"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ágata Gomes da Rosa",
+      "RA": "007200"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Agueda Elisabete Recke Foletto",
+      "RA": "005143"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Alauren Monize Martins Crespam",
+      "RA": "007775"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Alexandre de Souza Bisognin",
+      "RA": "005665"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Alexsandro Dorneles Teixeira",
+      "RA": "006231"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Alice Soares da Silva",
+      "RA": "005231"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Aline Beatriz Elesbão Vargas",
+      "RA": "004650"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Alisson Windelferd Eichner",
+      "RA": "007581"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Allana Alves de Souza",
+      "RA": "007714"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Álvaro Martins Pacheco",
+      "RA": "004494"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Amália Lopes Soares",
+      "RA": "005447"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Amanda Dala Rosa Uhr dos Santos",
+      "RA": "007787"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Amanda de Franceschi Link",
+      "RA": "006119"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Carolina Kauffmann Mendes",
+      "RA": "007571"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Carolina Messias dos Santos",
+      "RA": "005153"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Carolina Ramos Farias",
+      "RA": "007194"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Carolina Squizani Marchezan",
+      "RA": "007785"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Carolyna Amantino Lemos",
+      "RA": "006972"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Cristina Bevilaqua Weber",
+      "RA": "006901"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Gabriela Teixeira Fournier",
+      "RA": "007740"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Laura Simionato Guedes",
+      "RA": "007778"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Laura Tavares Freitas",
+      "RA": "006975"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Luiza Soldatti Godois",
+      "RA": "006249"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Paula Holdefer",
+      "RA": "007794"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Rita Ribas Reginaldo",
+      "RA": "006905"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ana Vitória Dias Pavão",
+      "RA": "005670"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Anderson de Paula Nunes",
+      "RA": "007563"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Andre do Prado Bonaldo",
+      "RA": "005690"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Andrea Loacir Schlesner",
+      "RA": "004350"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Andressa Zacarias Bettega",
+      "RA": "004643"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Andrielli Andressa Bendlin",
+      "RA": "007258"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Andriza Batista Pereira",
+      "RA": "007016"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Angélica Costa Dickow",
+      "RA": "007801"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Antônia Machado da Cruz",
+      "RA": "005960"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Antoniely Soares Vieira",
+      "RA": "005699"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Antônio Borges Bartmann Kessler",
+      "RA": "007802"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ariane Machado Cardoso",
+      "RA": "004541"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Arthur Almansa Carpes de Souza",
+      "RA": "004459"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Augusto Scheffer de Oliveira",
+      "RA": "007625"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Aysla Mathias Chaves Pinto",
+      "RA": "005197"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bárbara Matos Stecca",
+      "RA": "006223"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Barbara Silva Silveira",
+      "RA": "004476"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Beatriz Secco da Rosa",
+      "RA": "007402"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bianca Luz Nunes",
+      "RA": "006197"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bibiana Nunes Lopes",
+      "RA": "007156"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Brenda Flores Prates",
+      "RA": "004308"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruna dos Reis Fereirra de Avila",
+      "RA": "007655"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruna Medianeira Machado da Silva",
+      "RA": "003636"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruna Roberta Kralik",
+      "RA": "003226"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruna Silva Bernardo",
+      "RA": "007218"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruna Silva Stein",
+      "RA": "004023"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruna Vitória Machado Gubiani",
+      "RA": "004473"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Bruno Rodrigues Dias",
+      "RA": "005285"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Caetano Malheiros Tiezerin",
+      "RA": "006489"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Camila de Figueredo Gonçalves",
+      "RA": "005270"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Camila Silveira dos Santos Krugel",
+      "RA": "004788"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Camille Hilgemann Almança",
+      "RA": "006256"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Carina Cassol",
+      "RA": "007816"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Carlos Eduardo Oliveira de Vieira",
+      "RA": "004662"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Carolina Alvim Miquelli",
+      "RA": "007175"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Carolina Mendes",
+      "RA": "005814"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Catiusca Granado Fontanari",
+      "RA": "004672"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Cecília D'Javé Lucas Fontoura",
+      "RA": "007618"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ciro Moraes Walau",
+      "RA": "006467"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Clairson dos Santos Franco",
+      "RA": "003637"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Clara Luisi Nagel",
+      "RA": "007260"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Cleide Schaefer",
+      "RA": "004499"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Cleiton Thomasi da Cruz",
+      "RA": "006960"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Cristian Denner da Rosa",
+      "RA": "006580"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Cristiane Meus Fagundes",
+      "RA": "007239"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Cristina Guimarães e Santos",
+      "RA": "005317"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Daiane Delanora",
+      "RA": "006353"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Dandara Sena dos Santos",
+      "RA": "007724"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Danyely da Rosa Fagundes",
+      "RA": "007035"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Deivid Daniel Xavier de Lima",
+      "RA": "006475"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Diego Loppe",
+      "RA": "004543"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Dienifer Elaine da Luz dos Santos",
+      "RA": "004481"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Dilceu Oliveira Proença",
+      "RA": "006587"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Dimas Odair Grabner",
+      "RA": "004456"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Dione Severo Martinazzo",
+      "RA": "005318"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Diulio Bilhão",
+      "RA": "003696"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Douglas Cristiano Pádua",
+      "RA": "005956"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Douglas Felipe Martins de Souza",
+      "RA": "004684"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Edenilson Perufo Frigo",
+      "RA": "006481"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Edilaine Mirrara Luciano Pereira Duarte da Silva",
+      "RA": "005176"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eduarda Cardoso Freitas Aires",
+      "RA": "006922"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eduarda de Sousa Ritta",
+      "RA": "007018"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eduarda Martins Garcia",
+      "RA": "007729"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eduarda Schaurich",
+      "RA": "006087"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eduardo de Oliveira Lopes",
+      "RA": "004529"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eduardo Rodrigues Abreu",
+      "RA": "003818"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Elizeu Severo Martinazzo",
+      "RA": "003742"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ellen Martins Clauhs",
+      "RA": "006203"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Eluane de Melo Machado",
+      "RA": "003175"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Emanuel Rodrigues Lima",
+      "RA": "007762"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Emanuele Steffanello Manfio",
+      "RA": "006479"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Emerson Rodrigo Reetz",
+      "RA": "006581"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Êmilly Busatto",
+      "RA": "007233"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Emily Carol dos Santos de Moura",
+      "RA": "007815"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Endrew Emmanuel Lucas da Rosa Elesbão",
+      "RA": "007676"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Erica Dandara Cardoso",
+      "RA": "007385"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Érick Bernardo Dutra Silva",
+      "RA": "004509"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Érik Weis Vieira",
+      "RA": "007666"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Erika Mendonça Figueira",
+      "RA": "007394"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Estela da Rosa Oliveira",
+      "RA": "007819"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Evelin Bibiana Flores Fernandes",
+      "RA": "007727"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Évelin Lopes Soares",
+      "RA": "005156"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Fagner Scapin Montagner",
+      "RA": "007033"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Felipe Marques Monero",
+      "RA": "007037"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Felipe Silva da Rosa",
+      "RA": "004653"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Fernanda Kappaun Buzzetto",
+      "RA": "006947"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Fernando Koehler",
+      "RA": "006291"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Flávio Júnior Dala Rosa",
+      "RA": "006187"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Francieli Vargas Moreira da Silva",
+      "RA": "006978"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Francisco Benjamin Neto",
+      "RA": "007376"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriel Alves Teixeira",
+      "RA": "007707"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriel Druzian Fuganti",
+      "RA": "007161"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriel Marin Militz",
+      "RA": "004387"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriela Borba de Freitas",
+      "RA": "006167"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriela Marques Brenner",
+      "RA": "007584"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriela Silveira do Prado Brouwers",
+      "RA": "007768"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriele Leiria de Souza",
+      "RA": "004495"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabrielle dos Santos Ribas",
+      "RA": "007137"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gabriely Messias da Costa",
+      "RA": "005154"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Geovana Laura Neuenschwander",
+      "RA": "007398"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Giovana Stefani",
+      "RA": "004190"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gisélia Figueiredo Capeletti",
+      "RA": "005909"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gislaine Cavalheiro",
+      "RA": "007699"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Giulia Wilke Brilhante",
+      "RA": "004574"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Graciele Rodrigues Pena",
+      "RA": "007432"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Guilherme Alan Drescher",
+      "RA": "005121"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Guilherme de Paula Borda Rodrigues",
+      "RA": "003826"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gustavo Alves Fardin",
+      "RA": "007216"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Gustavo Nascente Ribeiro",
+      "RA": "005166"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Heitor Segabinazzi Teixeira",
+      "RA": "007042"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Hélen Marques Camargo Costa",
+      "RA": "006939"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Henrique Arboitte Torrel de Bail",
+      "RA": "006360"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Herica Santos Teixeira",
+      "RA": "006177"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Hoberdan Morais Padilha",
+      "RA": "007158"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Hygor Bitencourt Pereira",
+      "RA": "003295"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Isadora da Silva Sartori",
+      "RA": "006244"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Isadora Ozelame",
+      "RA": "007691"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ísis Crema Coelho",
+      "RA": "006634"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Itatiana Vestena Vendrame",
+      "RA": "004710"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Jacqueline Lopes da Silva",
+      "RA": "007737"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Janaina da Silva Souza",
+      "RA": "002875"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Janaína Vieira Rodrigues",
+      "RA": "005300"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Jeferson Tamiosso Bairros",
+      "RA": "004390"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Jieniffer Saidelles Scremin",
+      "RA": "004036"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "João Antônio Pires Santos",
+      "RA": "004008"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "João Pedro Foletto Marones",
+      "RA": "007730"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "João Schenini Trodo",
+      "RA": "006980"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Joaquim Francisco Costa de Assis Brasil",
+      "RA": "003605"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Josiani Grecco Sotelo",
+      "RA": "007219"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Julia de Oliveira Soares",
+      "RA": "006171"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Júlia Goia Militz Rojas",
+      "RA": "007754"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Júlia Lasch de Oliveira",
+      "RA": "006987"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Julia Oliveira Lacerda Paz",
+      "RA": "005908"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Julia Só Bartmann",
+      "RA": "006323"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Juliana Zechim Vieira",
+      "RA": "004593"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Juliano Missio Marzari",
+      "RA": "004617"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Juriane Aparecida da Silva Nogueira",
+      "RA": "004497"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kaiany Minussi Bicca",
+      "RA": "006282"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kamilli Valéria Gonçalves da Silva",
+      "RA": "007692"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Karla Alessandra Figueiredo da Silva",
+      "RA": "007809"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Karoline Alanis Dickow Agne",
+      "RA": "006262"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Katherine Renata Fornari",
+      "RA": "007020"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kathrini Cancian Javannowich",
+      "RA": "007178"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kauane de Morais Tassotti",
+      "RA": "006957"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kawan Alcides Leal",
+      "RA": "006915"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kayne Ryane Carvalho Lima da Silva",
+      "RA": "007225"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kelly Keity Cesar Rodrigues",
+      "RA": "004466"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kerolim Ribeiro de Lima",
+      "RA": "004079"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kétlin Santos da Silva",
+      "RA": "005675"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ketrin de Souza Ribas",
+      "RA": "005116"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Kettlen Menezes dos Santos",
+      "RA": "005668"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Keven Samuel Carvalho dos Reis",
+      "RA": "007851"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Laise Ferraz da Silva",
+      "RA": "005473"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lara Fábia Garcia",
+      "RA": "005247"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lariane Alves",
+      "RA": "005234"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Larissa Kirchhof Becker",
+      "RA": "002346"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Laura Gabrieli Dias da Veiga",
+      "RA": "005278"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Laura Vithória dos Santos",
+      "RA": "006895"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lauriâni Santos de Moura",
+      "RA": "006083"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Laysa Priscila Bulegon",
+      "RA": "006148"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lazaro Moisés Rodrigues",
+      "RA": "002834"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Leandra Gonçalves das Chagas",
+      "RA": "007849"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Leonardo Bandeira Benetti",
+      "RA": "006114"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Leonardo Pacheco Andrade",
+      "RA": "006366"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Leticia Caino Brondani",
+      "RA": "007765"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Letícia Laís Lüdtke",
+      "RA": "003624"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lindara Graminha Sagave",
+      "RA": "007780"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Loren Jessin Dias",
+      "RA": "007547"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Loriane da Costa Valau",
+      "RA": "007437"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lorrany Gularte Ferreira",
+      "RA": "005969"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luan Dutra Santana",
+      "RA": "007257"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lucas Cruz Vasconcelos",
+      "RA": "004078"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lucas Martini da Silva",
+      "RA": "007706"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lucas Moraes Ribeiro",
+      "RA": "006709"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Lucca Berger Sarzi",
+      "RA": "006633"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luciana Espindola da Costa",
+      "RA": "004040"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luis Felipe Camargo Leão",
+      "RA": "007626"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luís Henrique Cervo",
+      "RA": "006354"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiz Carlos Prevedello",
+      "RA": "002251"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiz Felipe Dumerqui Scholz",
+      "RA": "004646"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiz Fernando Galvão dos Santos Filho",
+      "RA": "006277"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiza Bortolotto",
+      "RA": "002252"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiza de Mello Gaira",
+      "RA": "005269"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiza dos Reis Wolf",
+      "RA": "004187"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luíza Lopes Zelada",
+      "RA": "006994"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luiza Mendes dos Santos",
+      "RA": "007848"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Luíza Rossignollo de Souto",
+      "RA": "007818"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Maikel Edemílson Bataioli",
+      "RA": "005266"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Marcel Augusto Schünke",
+      "RA": "007640"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Marcelo Leal Dalla Corte",
+      "RA": "006849"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Márcia Regina Silva da Silva Mayer",
+      "RA": "004301"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Maria Eduarda Brito Peters",
+      "RA": "007588"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Maria Eduarda Canzian de Souza",
+      "RA": "006101"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Maria Eduarda Recova da Rosa",
+      "RA": "007043"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Maria Rita Soares Rodrigues",
+      "RA": "006111"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mariah Garin Festinalli",
+      "RA": "007601"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mariana Almeida de Avellar",
+      "RA": "006973"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mariana Heidemann",
+      "RA": "006906"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mario Sergio Ferreira",
+      "RA": "006983"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Marjana Bertotti Flôres",
+      "RA": "006979"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Marlei Costa",
+      "RA": "007166"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Marlusse Silveira",
+      "RA": "006472"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Martha Pereira Streck",
+      "RA": "005973"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Matheus dos Santos Schmidt",
+      "RA": "006566"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mauren Scalcon Fabrício",
+      "RA": "005258"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Maurícyo Comarú da Silva de Mello",
+      "RA": "006251"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mauro Matias Ruiz",
+      "RA": "002682"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Mayna Salem da Rosa",
+      "RA": "007204"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Melissa Iung Garlet",
+      "RA": "006124"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Michelle Arce Prunes",
+      "RA": "003447"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Michelle Tagiane Cruz Guedes",
+      "RA": "004143"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Miguel Sinnemann Najar",
+      "RA": "004669"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Milton Airison Pinto Rodrigues",
+      "RA": "007192"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Moniki Silveira",
+      "RA": "005248"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Murilo Cavalheiro",
+      "RA": "007711"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Myrelle da Silva Souza",
+      "RA": "005886"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Nadine Daniela da Silva",
+      "RA": "005242"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Nadine Laura da Silva",
+      "RA": "007811"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Natan Migliorim Franzen",
+      "RA": "007664"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Paloma Valentina Padilha Schmeling",
+      "RA": "006969"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Pâmela de Almeida Rigo",
+      "RA": "006583"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Paola Aparecida Speridião",
+      "RA": "004620"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Paola Kieling Souza",
+      "RA": "006160"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Pedro Almeida de Oliveira Thedy",
+      "RA": "006186"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Pedro Somavilla Brondani",
+      "RA": "005359"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Rafael Júnior Dalcin",
+      "RA": "003801"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Rafael Rodrigues da Silva",
+      "RA": "006384"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Raissa Bueno Pedroso",
+      "RA": "007684"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Raissa Cristina Schirmer da Silva",
+      "RA": "007630"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Raíssa Gracioli da Silva",
+      "RA": "007086"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Raphael Pinto Lannes",
+      "RA": "004171"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Raquel Fagundes Rockenbach",
+      "RA": "005164"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Rayssa Baptista do Nascimento",
+      "RA": "007127"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Rebeca Padilha Bogado",
+      "RA": "007238"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Renata Fernandes Gress",
+      "RA": "005171"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Renata Vedovato Dalla Nora",
+      "RA": "006959"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Rhayssa da Silva Oliveira",
+      "RA": "005187"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Robert Josué da Silva Aguilera",
+      "RA": "007855"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Sabrina Petrona da Silva Ferreira",
+      "RA": "006929"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Shaiane Valmarath Trindade",
+      "RA": "005115"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Silviane Cocco Pesamosca",
+      "RA": "006462"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Simone Camargo do Nascimento Dutra dos Santos",
+      "RA": "006840"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Sophia Moreira Silveira",
+      "RA": "006894"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Suelen Thais Seibert",
+      "RA": "007616"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Suellen Camille Berg de Melo",
+      "RA": "007570"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tácio da Silva Druzian",
+      "RA": "006971"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tacio Pohlmann Pozzatti",
+      "RA": "005233"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tailana Tais Fenner",
+      "RA": "004061"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tanise Carneiro Dutra",
+      "RA": "004525"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tatiana de Assumpção da Rosa",
+      "RA": "003975"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tauani da Silva Kleber",
+      "RA": "004498"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Thays Brum Pfeifer",
+      "RA": "006948"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Thiago Arthur Klaus",
+      "RA": "006368"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Thyrsah Guedes Rossato",
+      "RA": "004786"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tialifer de Oliveira",
+      "RA": "007860"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Tuany Raica Oliveira Vargas",
+      "RA": "007662"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Ubiratan Fernandes Pedrosa Júnior",
+      "RA": "004656"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Valdinei de Fatima Aires",
+      "RA": "004140"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Valentina Polano Vay",
+      "RA": "006965"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Valentiny do Carmo Züge",
+      "RA": "007182"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vanessa Vitória Pereira da Silva",
+      "RA": "003666"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Virgínia Inês de Vargas Alves",
+      "RA": "005264"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vitoria Jacques Maronn",
+      "RA": "007777"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vitória Kieling Souza",
+      "RA": "006162"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vitória Louise Kohls Waholtz",
+      "RA": "005186"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vitoria Maria Borges",
+      "RA": "005117"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vitória Santos Posser",
+      "RA": "006221"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Vitória Verdum dos Santos",
+      "RA": "005109"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Wellington Elito Bley",
+      "RA": "006482"
+    
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Wilhan Moro",
+      "RA": "005315"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Yasmim Gaelzer Martins de Souza",
+      "RA": "006873"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Yasmin Ceretta Makoski",
+      "RA": "007641"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Yasmin Rodrigues Bohn",
+      "RA": "007634"
+    },
+    {
+      "CURSO": "Direito",
+      "ALUNO": "Zenandria da Rosa dos Santos",
+      "RA": "007751"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Alex Eduardo Leites Flôres",
+      "RA": "007615"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Augusto Engel Montagner",
+      "RA": "007803"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Fernanda Simões Pires de Mendonça",
+      "RA": "007236"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Flávia Rubin",
+      "RA": "003875"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Gabriel Santana dos Santos",
+      "RA": "006290"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Josiane de Oliveira",
+      "RA": "002590"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Katiana Prudencio Romero",
+      "RA": "007051"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Leonardo Iop Bortoluzzi",
+      "RA": "007776"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Lucas de Magalhães Gass",
+      "RA": "007621"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Maria Eduarda de Almeida Soares",
+      "RA": "007594"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Muryllo dos Santos Teixeira",
+      "RA": "007602"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Patrícia Rossato",
+      "RA": "002570"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Rafaela Lemos Teixeira",
+      "RA": "007713"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Sofia Cassol da Luz",
+      "RA": "006474"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Sofia Henriques da Luz",
+      "RA": "007565"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Tiago Biasi dos Santos",
+      "RA": "007781"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Valentim Aita do Nascimento",
+      "RA": "007814"
+    
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Vitor Cauê Hirsch",
+      "RA": "007704"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Werno Junior da Silva Neumann",
+      "RA": "007738"
+    },
+    {
+      "CURSO": "Hotelaria",
+      "ALUNO": "Zaqueu Machado Barbieri",
+      "RA": "007796"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Adriana Neutzling",
+      "RA": "005298"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Airton Leonardo Wilhelm",
+      "RA": "002680"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Alessandra Regina Xavier Fernandes",
+      "RA": "007193"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Aline Fragoso Ramos",
+      "RA": "004321"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Aline Rodrigues Alves",
+      "RA": "007586"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Aline Tatiana da Rocha Martins",
+      "RA": "006896"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ana Balsan Dellinghausen",
+      "RA": "006554"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ana Carolina Bovolini Felin",
+      "RA": "006145"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ana Carolina Marzzari",
+      "RA": "002166"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ana Heloísa do Rosário",
+      "RA": "002779"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ana Maria Barros de Souza",
+      "RA": "004630"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ana Paula Bolzan Monteiro",
+      "RA": "003685"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ângelo Kleinert Luchese",
+      "RA": "006544"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Anna Rech Schultz",
+      "RA": "006185"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Arielly Di Cássia Silva dos Santos",
+      "RA": "005339"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Artemio Polidoro",
+      "RA": "005907"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Aysla Mathias Chaves Pinto",
+      "RA": "005197"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Bárbara Matos Stecca",
+      "RA": "006223"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Bianca Pereira Brasil",
+      "RA": "004679"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Bianca Schramm",
+      "RA": "006068"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Breno Prado da Silva",
+      "RA": "003586"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Bruna Flores de Leão",
+      "RA": "003909"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Carmen Lucia Holzchuke",
+      "RA": "004714"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Caroline Antunes Bastos",
+      "RA": "004707"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Catia Elzira Wioppiold Fritz Michels",
+      "RA": "007550"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Cláudia Alberici Stefenon",
+      "RA": "007209"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Cleoci Werle Rockenbach",
+      "RA": "002053"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Cristiane Cassanego da Silva",
+      "RA": "007115"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Daiane Monção de Almeida",
+      "RA": "003716"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Daniel Palmeira Albrecht",
+      "RA": "003990"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Daniely Alves da Silva",
+      "RA": "007057"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Dienifer de Morais Tassotti",
+      "RA": "007708"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Dinara Simone Pohlmann Pozzatti",
+      "RA": "002693"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Dionatha Silveira Barcellos",
+      "RA": "007685"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Douglas Kozoroski",
+      "RA": "004811"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Douglas Pereira dos Santos",
+      "RA": "003442"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Dyeine Láurin Ferrão Feldmann",
+      "RA": "004123"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Edgar Fernando Schultz",
+      "RA": "003872"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Eduardo de Oliveira Lopes",
+      "RA": "004529"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Eduardo Moreira da Silva",
+      "RA": "007395"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Elen Cristina Oliveira Carvalho",
+      "RA": "007668"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Elenir Veit Dummel",
+      "RA": "003759"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Eliara Terezinha Furlan Linhares",
+      "RA": "007174"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ely Pivatto Berna",
+      "RA": "007556"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Emilyn Fernanda de Oliveira Ostwald",
+      "RA": "004579"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Eveline de Oliveira Lima",
+      "RA": "005295"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Fabio Vettorazzi",
+      "RA": "005051"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Felipe Carpes Irala",
+      "RA": "003737"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Felipe Carpes Irala",
+      "RA": "003737"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Felipe Martinez de Souza",
+      "RA": "007049"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Felipe Paes",
+      "RA": "003416"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Fernanda de Quadros Rodrigues",
+      "RA": "006523"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Fernanda Lucéli Penso",
+      "RA": "005459"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Fernanda Simões Pires de Mendonça",
+      "RA": "007236"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Gabriel Franklin Forsch",
+      "RA": "007805"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Gabriela Barbosa Moraes",
+      "RA": "005976"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Gabriela Machado de Borba",
+      "RA": "004800"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Gabriela Perdomo Coral",
+      "RA": "005168"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Glauber Benetti Carvalho",
+      "RA": "002986"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Guilherme Bortoluzzi Pereira",
+      "RA": "007797"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Gustavo Silveira Alves",
+      "RA": "007791"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Henrique Marafiga Martins",
+      "RA": "002629"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Higor Bulegon",
+      "RA": "007199"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Isabel Cristiane Cavalheiro Pereira",
+      "RA": "005105"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Isadora do Carmo Stangherlin",
+      "RA": "006430"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Janete Schiefelbein",
+      "RA": "006367"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Jaqueline Oliveira de Almeida Pigatto",
+      "RA": "005843"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Jeferson Alexandre Ubatuba",
+      "RA": "005822"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "João Lucas Leite Guarda de Vargas",
+      "RA": "007108"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Jonas Fontoura da Silva",
+      "RA": "004112"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "José Luiz Richetti",
+      "RA": "002106"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "José Paulo de Almeida Dias",
+      "RA": "005649"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Jucemara Rossato",
+      "RA": "006141"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Julia Santoni Lunardi",
+      "RA": "006302"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Júlia Tasquetto da Silva Alves",
+      "RA": "007568"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Juliana Alves Stumpf",
+      "RA": "004576"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Kássio Bilhan de Francisco",
+      "RA": "006133"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Kathleen Eduarda dos Santos Figueiredo Machado",
+      "RA": "007068"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Kaylane Assunção Vielmo",
+      "RA": "005119"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Larissa Ferreira Magalhães",
+      "RA": "006940"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Laura Scortegagna Lopes",
+      "RA": "004537"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Laurem Anzolin Silveira",
+      "RA": "004548"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Lazaro Daniel dos Santos",
+      "RA": "005263"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Leonardo Matheus Florêncio",
+      "RA": "002631"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Leticia Dalsochio Veleda de Freitas",
+      "RA": "007688"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Liamara Angelica Zang Duarte",
+      "RA": "007686"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Lizete Lúcia Alban",
+      "RA": "007721"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Luciana Laudares Costa",
+      "RA": "004447"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Luiz Herter",
+      "RA": "005639"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Luiz Yan da Silveira Pereira",
+      "RA": "005235"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Lygia de Almeida Marques",
+      "RA": "002281"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Magda Chaves",
+      "RA": "007001"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Maísa Paranhos Bertoglio",
+      "RA": "006891"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Mami Ueno",
+      "RA": "004645"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Mara Elaine Astigarraga Silveira",
+      "RA": "004382"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Márcia Cristiane Rambo",
+      "RA": "003515"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Marciele Farias da Rosa",
+      "RA": "005173"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Marcio Sudati Rodrigues",
+      "RA": "002101"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Marcos Floriano Gudolle",
+      "RA": "007766"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Maria Carolina Magalhães Jeffe",
+      "RA": "006531"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Maria Olavia Padilha Freitas",
+      "RA": "002284"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Matheus Tolentino Brizolla",
+      "RA": "007066"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Mauricio Simões Pires de Mendonça",
+      "RA": "004649"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Melanny Garcia Alves",
+      "RA": "007228"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Michele Ketlin Festinalli",
+      "RA": "003297"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Moisés Ceratti",
+      "RA": "005426"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Nalanda Gavião da Silva",
+      "RA": "006143"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Nara Regina Schuquel Martins",
+      "RA": "006372"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Neusa Maria da Rosa Canabarro Viera",
+      "RA": "006893"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Nilson Roberto De Souza",
+      "RA": "005874"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Noemi Boer",
+      "RA": "007574"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Patrícia da Silva Dias",
+      "RA": "006670"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Paula Letícia Schmeling Bolfe",
+      "RA": "006967"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Paulo Emilio da Silva Barrios",
+      "RA": "002702"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Pedro Trindade Casanova",
+      "RA": "007254"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Raquel Fanton Koakoski",
+      "RA": "004270"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Raquel Gomes",
+      "RA": "003424"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Rayna de Mattos Mundt",
+      "RA": "006953"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Rhafael Vinissius Soder Kolberg",
+      "RA": "002740"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ribamar Watthier",
+      "RA": "005228"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ricardo Sarturi Siqueira",
+      "RA": "005881"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Rodrigo Martins Espinosa Filho",
+      "RA": "005332"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Sandra Bruni",
+      "RA": "004487"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Sandra Wachter Weddigen",
+      "RA": "004658"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Stefanie Tischer da Costa",
+      "RA": "005352"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Suelen Costa Raimundo",
+      "RA": "003184"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Taís Santoni",
+      "RA": "005972"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Talissa Antonello Neves",
+      "RA": "007055"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Talita Cristina Lima Carcavilla",
+      "RA": "005000"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Tatiane Rocha Razeira",
+      "RA": "005227"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Thais Lurrana do Carmo Vieira",
+      "RA": "007373"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Thayse Smek Uberna",
+      "RA": "004464"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Thiago Gabriel Flores",
+      "RA": "007157"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Thobias Zamboni",
+      "RA": "003899"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Thomas Emanoel Tavares Streck",
+      "RA": "003025"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Valentina Neis Caraffa",
+      "RA": "003724"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Valquíria Duthevicz Loureiro",
+      "RA": "005158"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Viviane Siqueira Ribeiro",
+      "RA": "002772"
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Ygor da Rocha Martins",
+      "RA": "007381"
+    
+    },
+    {
+      "CURSO": "Ontopsicologia",
+      "ALUNO": "Zuriely Aguirre Machado",
+      "RA": "007269"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Alicia Meus Deponti",
+      "RA": "004660"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Aline Dumke",
+      "RA": "003211"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Ana Carolina Pessoa da Silva",
+      "RA": "006278"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Anderson Gustavo Neu",
+      "RA": "007726"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Bianca Jahn",
+      "RA": "006704"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Brenda Laísa Machado Rosa",
+      "RA": "007077"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Brunna Lopes Kasali",
+      "RA": "006325"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Camila Luani Santos Ancina",
+      "RA": "006105"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Caroline Leal Machado",
+      "RA": "007661"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Danieli Cattelan Atencia",
+      "RA": "007607"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Diana Cristine Gaedke",
+      "RA": "007248"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Diuli Marceli Neuenfeldt",
+      "RA": "007658"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Eduane Pacheco Gerhard",
+      "RA": "005971"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Eduarda Dias dos Santos",
+      "RA": "007603"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Eduarda dos Santos de Quadros",
+      "RA": "007667"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Eduarda Terra Felipeto",
+      "RA": "006735"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Eduarda Vieira Flores Oliveira",
+      "RA": "007623"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Elielton da Silva Soares",
+      "RA": "006927"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emanoel Pinto da Rosa",
+      "RA": "007689"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emanueli Fernanda Weber Bogorni",
+      "RA": "005935"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emanuélly Oliveira Teixeira",
+      "RA": "007067"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emanuelly Stefanello Bulegon",
+      "RA": "006182"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emilene Pacheco Gerhard",
+      "RA": "007364"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emilie Silveira Dos Santos",
+      "RA": "007665"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Emilyn Oliveira Flores",
+      "RA": "007268"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Graziela Dorneles Guidetti",
+      "RA": "003539"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Guilherme Vestena Donato",
+      "RA": "007010"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Helena Bringmann",
+      "RA": "007245"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Jaqueline Lourenço de Azambuja Leandro",
+      "RA": "007135"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Julia Rodrigues Severo",
+      "RA": "006974"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Julie Lais Gaedke",
+      "RA": "006792"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Larissa de Francisco",
+      "RA": "004071"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Letícia Isabel Zuge",
+      "RA": "007701"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Lívia Elisabeth Antunes Gil",
+      "RA": "007558"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Luan dos Santos Michel",
+      "RA": "007720"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Luísa Selma Brandt",
+      "RA": "006122"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Maitiéle Camille Staffen do Nascimento",
+      "RA": "007635"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Marcela Duche Lopes",
+      "RA": "007637"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Maria Eduarda Panerai Turchiello",
+      "RA": "005180"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Maria Eduarda Rosa da Silva",
+      "RA": "005419"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Maria Eliza Prestes Bissacotti",
+      "RA": "006170"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Mariane Vieira Ribeiro",
+      "RA": "003575"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Michaele Santos Peres Krause",
+      "RA": "007052"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Nicolly Eduarda Severo Flores",
+      "RA": "007748"
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Samara da Silva Rodrigues",
+      "RA": "007613"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Tailine Naiara Friedrich",
+      "RA": "007435"
+    
+    },
+    {
+      "CURSO": "Pedagogia",
+      "ALUNO": "Thalia Bresulin Souza",
+      "RA": "006950"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Alessandro Müller Baú",
+      "RA": "006921"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Alex Angelo Michelon Cancian",
+      "RA": "005123"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Alexandre Porto Knierim",
+      "RA": "007681"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Anderson Steuernagel Menegassi",
+      "RA": "006196"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Andrey Ricardo Lucca Peil",
+      "RA": "006900"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Antonio Montano Massia",
+      "RA": "007230"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Antonio Streck Facco",
+      "RA": "005149"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Arthur Santiago Pereira de Sena",
+      "RA": "006993"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Arthur Zanon de Andrade",
+      "RA": "006904"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Bernardo Couto Pereira",
+      "RA": "007408"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Brayan Martins de Oliveira",
+      "RA": "006469"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Bruno Ilha Carneiro",
+      "RA": "007247"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Bruno Kauã de Siqueira Pinheiro",
+      "RA": "005125"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Bruno Zanchi Machry",
+      "RA": "007674"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Cairo Lima Lopes",
+      "RA": "006243"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Carlos Daniel Martins da Silva",
+      "RA": "004581"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Carlos Eduardo Schumacher Nunes",
+      "RA": "004142"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Carlos Guilherme Mohr",
+      "RA": "006191"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Cleiton José Vidal",
+      "RA": "007690"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Cristian André Fiorese Konrad",
+      "RA": "007080"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Davi Pessoa Nunes",
+      "RA": "007788"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Denner Carvalho Dutra",
+      "RA": "007548"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Diogo Alexandre Nogueira Lauter",
+      "RA": "003285"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Eduarda Jose Cardoso",
+      "RA": "007074"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Eduardo Barreto Bianchi",
+      "RA": "007749"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Eduardo Bergoli Gomes",
+      "RA": "007608"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Eduardo Henrique Agne",
+      "RA": "006263"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Eduardo Matheus Lenz Artus",
+      "RA": "006305"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Eduardo Ventorini Rossdeutscher",
+      "RA": "007697"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Emanoel da Cruz Loreto",
+      "RA": "004508"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Emanoel de Moura",
+      "RA": "002781"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Emily Pohlmann Pozzatti",
+      "RA": "007786"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Endrel da Silva Dias",
+      "RA": "004632"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Fábio da Rosa Moreira",
+      "RA": "007656"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Fernanda Jaqueline Abich",
+      "RA": "005169"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Fernanda Soares Soares",
+      "RA": "007562"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Fernando Dreyer Radunz",
+      "RA": "006134"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Almeida",
+      "RA": "007566"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Balsemão Ferreira",
+      "RA": "007652"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel da Rosa Conceição Damacena",
+      "RA": "006176"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Henrique Fernandes Telles",
+      "RA": "006130"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Luiz Bergel",
+      "RA": "006226"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Rodrigues dos Santos",
+      "RA": "006473"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Roggia",
+      "RA": "007093"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriel Tessele",
+      "RA": "006916"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabriela Campos Mazzini",
+      "RA": "006795"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gabrielly Stochero",
+      "RA": "007698"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Guilherme Augusto Losekann",
+      "RA": "007672"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Guilherme Buzata Araujo",
+      "RA": "007405"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Guilherme Ruiz Lizardo",
+      "RA": "007643"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gustavo Ismael Otto",
+      "RA": "007146"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Gustavo Pincolini Zanini",
+      "RA": "007617"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Hebert Ziani Medeiros",
+      "RA": "007744"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Henrique Correa Beladona",
+      "RA": "007792"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Héric Rian dos Santos Pereira",
+      "RA": "006316"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Hérica Becker Druziam",
+      "RA": "006299"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Hirruá Souza da Silva",
+      "RA": "005260"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Igor Augusto Vendrusculo Soldera",
+      "RA": "004575"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Igor Garlet Dal Ongaro",
+      "RA": "005118"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Isabel Schmitt",
+      "RA": "007702"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "João Lucas Leite Guarda de Vargas",
+      "RA": "007108"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Jorge Aluis Rockenbach",
+      "RA": "007771"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "José Arcangelo de Souza Garlet",
+      "RA": "007263"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Josiel Pereira Paz",
+      "RA": "006276"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Julian Schneider Mayolo",
+      "RA": "005934"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Kauã da Rosa Saraiva",
+      "RA": "007810"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Kauã Fardin",
+      "RA": "006333"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Kenedi João Mahlke",
+      "RA": "006884"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lazaro Vissoto Lorenzi",
+      "RA": "006235"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lorenzo de Souza Zanonato",
+      "RA": "005372"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lorenzo Facco",
+      "RA": "007784"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Luan Vieira da Costa",
+      "RA": "004124"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lucas Barbosa Segui",
+      "RA": "007054"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lucas Bonadeo",
+      "RA": "007657"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lucas Davila Seleprim",
+      "RA": "004551"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lucas Griebeler Feldmann",
+      "RA": "004755"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lucas Henrique Sales Santos",
+      "RA": "005475"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Lucas Pirhardt Descovi",
+      "RA": "007208"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Luiz Fernando Curti Morais Guimarães",
+      "RA": "005134"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Luiz Henrique da Silva",
+      "RA": "007369"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Luiz Mariano Maziero",
+      "RA": "007629"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Maicon Mazzonetto Rossatto",
+      "RA": "004474"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Marcelo da Costa Telles",
+      "RA": "007184"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Marco Antônio da Luz Maciel da Costa",
+      "RA": "006380"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Marcos Leonardo Krauspenhar da Silva Belmiro",
+      "RA": "007769"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Maria Eduarda Mello Carvalho",
+      "RA": "007179"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Mariane Pigatto da Rosa",
+      "RA": "006213"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Matheus Berger Ribeiro",
+      "RA": "006313"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Matheus Conde da Silva",
+      "RA": "007712"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Matheus da Silva Dias",
+      "RA": "007789"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Matheus Rossi Carvalho",
+      "RA": "005224"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Matheus Vargas Pretzel",
+      "RA": "007148"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Mell Santos de Campos",
+      "RA": "006995"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Michel Matias Schmengler",
+      "RA": "003974"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Milton Roberto Bortolanza",
+      "RA": "007220"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Miquéias Queiroz da Silva",
+      "RA": "006865"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Nickolas Gonçalves Nuh",
+      "RA": "006946"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Nícolas de Siqueira França",
+      "RA": "007025"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Nícolas Marin Corneli",
+      "RA": "007038"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Otávio Ferreira Dahlke",
+      "RA": "007053"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Otávio Krügel Zimmer",
+      "RA": "007798"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Patrick Estevan Freese",
+      "RA": "003621"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Pedro Henrique Loureiro de Avila",
+      "RA": "004336"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Pedro Henrique Nunes Silveira",
+      "RA": "007241"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Pedro Leal Lovatto",
+      "RA": "006558"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Rafael Ferreira Schumacher",
+      "RA": "007542"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Rafael Pavanatto de Figueiredo",
+      "RA": "007597"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Raisson Silveira de Souza",
+      "RA": "006241"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Raul Gustavo Schüller",
+      "RA": "007733"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Roberto Adolfo Wilhelm",
+      "RA": "005695"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Roberto Waide",
+      "RA": "007062"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Rodrigo Froehlich Machado",
+      "RA": "006144"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Rodrigo Silveira Cantarelli",
+      "RA": "002927"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Samuel da Silva Oliveira",
+      "RA": "007541"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Samuel Watthier Timmermann",
+      "RA": "007004"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Sidnei Mayer Ferrari",
+      "RA": "006295"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Tainara dos Santos Marques",
+      "RA": "007696"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Thales Martins Cogo",
+      "RA": "006215"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Thevis Almeida Cardoso",
+      "RA": "007069"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Thomás Soares Pessôa",
+      "RA": "005319"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Timóteo Marques Alves",
+      "RA": "005692"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Victor Gabriel Meneghetti",
+      "RA": "007709"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vinícios Pereira Dotto",
+      "RA": "006476"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vinicius Krohn Guinalia",
+      "RA": "007598"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vinícius Pacheco de Menezes",
+      "RA": "003326"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vinicius Schmidt",
+      "RA": "006086"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vinícius Secretti Franceschi",
+      "RA": "006913"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vitor Baratto",
+      "RA": "007091"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vitor Eduardo Schumacher",
+      "RA": "005478"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vitor Mateus Miolo",
+      "RA": "004119"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vitor Serra Cardias",
+      "RA": "005144"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vítor Teixeira de Mello",
+      "RA": "004774"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Vitório Rodrigues Nicola",
+      "RA": "006342"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Wellington Juan Dutra Oliveira",
+      "RA": "006151"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Willian Ricardo Fernandes da Silva",
+      "RA": "006490"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Yan Nunes Atzler",
+      "RA": "007235"
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Yasser Ziani Daoud",
+      "RA": "006230"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Yuri Garcia Baptista",
+      "RA": "006976"
+    
+    },
+    {
+      "CURSO": "Sistemas de Informação",
+      "ALUNO": "Yuri Nunes Atzler",
+      "RA": "004582"
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 import React, { useRef, useEffect, useState } from "react";
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
 import InputMask from "react-input-mask";
+import { ErrorModal, SuccessModal } from "../../components/Modal";
+import alunosData from "../../data/alunos.json";
 
 const Container = styled.div`
   display: flex;
@@ -26,7 +28,7 @@ const Form = styled.form`
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 400px;
+  max-width: 70%;
 `;
 
 const Label = styled.label`
@@ -59,10 +61,28 @@ const Button = styled.button`
   border-radius: 4px;
   cursor: pointer;
   margin-top: 10px;
+  display: flex;
+  align-itens: center;
+  justify-content: center;
 
   &:hover {
     background-color: #76b900;
   }
+`;
+
+const spin = keyframes`
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+`;
+
+// Crie um componente Styled para o spinner
+const Spinner = styled.div`
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 2px solid white;
+  width: 20px;
+  height: 20px;
+  animation: ${spin} 0.8s linear infinite;
 `;
 
 const VideoContainer = styled.div`
@@ -94,6 +114,7 @@ const CameraCapture = () => {
   const videoRef = useRef();
   const canvasRef = useRef();
   const [imageSrc, setImageSrc] = useState("");
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const [formData, setFormData] = useState({
     nome: "",
     cpf: "",
@@ -103,6 +124,17 @@ const CameraCapture = () => {
   const [errors, setErrors] = useState({});
   const [usingFrontCamera, setUsingFrontCamera] = useState(true);
   const [capturedImage, setCapturedImage] = useState(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [modalType, setModalType] = useState("");
+  const [alunos, setAlunos] = useState([]); 
+
+  useEffect(() => {
+    setAlunos(alunosData.Sheet);
+  }, []);
+
+  const buscarAlunoPorMatricula = (matricula) => {
+    return alunos.find(aluno => aluno.RA === matricula);
+  };
 
   useEffect(() => {
     startVideo(usingFrontCamera);
@@ -182,8 +214,9 @@ const CameraCapture = () => {
   const sendImageToBackend = async () => {
     if (!validateForm()) return;
   
+    setIsSubmitting(true);
+  
     const file = base64ToFile(imageSrc, 'captured.png');
-    console.log("🚀 ~ sendImageToBackend ~ file:", file)
     const data = new FormData();
     data.append('imagem', file);
     data.append('nome', formData.nome);
@@ -191,47 +224,73 @@ const CameraCapture = () => {
     data.append('matricula', formData.matricula);
     data.append('curso', formData.curso);
   
-    const response = await fetch('http://localhost:3005/salvar-aluno', {
-      method: 'POST',
-      body: data,
-    });
+    try {
+      const response = await fetch('http://localhost:3005/salvar-aluno', {
+        method: 'POST',
+        body: data,
+      });
   
-    const result = await response.text();
-    console.log(result);
+      if (!response.ok) {
+        // Se a resposta não for bem-sucedida, trate o erro aqui
+        throw new Error('Erro ao enviar os dados. Código de status: ' + response.status);
+      }
+  
+      setIsSubmitting(false);
+      setIsModalOpen(true);
+      setModalType("success");
+    } catch (error) {
+      console.error('Erro ao enviar imagem:', error);
+      setIsSubmitting(false);
+      setIsModalOpen(true);
+      setModalType("error");
+    }
   };
+  
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setFormData({ ...formData, [name]: value });
+
+    // Se o campo alterado for matrícula, procurar o aluno pelo RA e preencher nome e curso se encontrado
+    if (name === 'matricula') {
+      const aluno = buscarAlunoPorMatricula(value);
+      if (aluno) {
+        setFormData({
+          ...formData,
+          [name]: value,
+          nome: aluno.ALUNO,
+          curso: aluno.CURSO,
+        });
+      } else {
+        setFormData({
+          ...formData,
+          [name]: value,
+          nome: '', // Limpar o nome se o aluno não for encontrado
+          curso: '', // Limpar o curso se o aluno não for encontrado
+        });
+      }
+    } else {
+      setFormData({
+        ...formData,
+        [name]: value,
+      });
+    }
   };
 
+  const clearForm = () => {
+    setFormData({
+      nome: "",
+      cpf: "",
+      matricula: "",
+      curso: "Sistemas de Informação",
+    });
+    setImageSrc(""); // Limpar a imagem capturada, se houver
+    setCapturedImage(null);
+    startVideo(usingFrontCamera); 
+  }
   return (
     <Container>
       <FormContainer>
         <Form>
-          <Label htmlFor="nome">Nome:</Label>
-          <Input
-            type="text"
-            id="nome"
-            name="nome"
-            value={formData.nome}
-            onChange={handleChange}
-            required
-            pattern="[A-Za-z\s]{1,50}"
-            maxLength="50"
-          />
-          {errors.nome && <ErrorMessage>{errors.nome}</ErrorMessage>}
-
-          <Label htmlFor="cpf">CPF:</Label>
-          <InputMask
-            mask="999.999.999-99"
-            value={formData.cpf}
-            onChange={handleChange}
-          >
-            {() => <Input type="text" id="cpf" name="cpf" required />}
-          </InputMask>
-          {errors.cpf && <ErrorMessage>{errors.cpf}</ErrorMessage>}
-
           <Label htmlFor="matricula">Matrícula:</Label>
           <Input
             type="text"
@@ -241,10 +300,31 @@ const CameraCapture = () => {
             onChange={handleChange}
             required
             pattern="\d{6}"
+            disabled={isSubmitting}
             maxLength="6"
+            placeholder="001122"
           />
           {errors.matricula && <ErrorMessage>{errors.matricula}</ErrorMessage>}
+          <Label htmlFor="nome">Nome:</Label>
+          <Input
+            type="text"
+            id="nome"
+            name="nome"
+            value={formData.nome}
+            required
+            placeholder="O nome será buscado automaticamente pelo seu RA"
+          />
+          {errors.nome && <ErrorMessage>{errors.nome}</ErrorMessage>}
 
+          <Label htmlFor="cpf" >CPF:</Label>
+          <InputMask
+            mask="999.999.999-99"
+            value={formData.cpf}
+            onChange={handleChange}
+          >
+            {() => <Input type="text" id="cpf" name="cpf" required />}
+          </InputMask>
+          {errors.cpf && <ErrorMessage>{errors.cpf}</ErrorMessage>}
           <Label htmlFor="curso">Curso:</Label>
           <Select
             id="curso"
@@ -252,6 +332,7 @@ const CameraCapture = () => {
             value={formData.curso}
             onChange={handleChange}
             required
+            disabled={isSubmitting}
           >
             <option value="Sistemas de Informação">
               Sistemas de Informação
@@ -266,8 +347,8 @@ const CameraCapture = () => {
           </Select>
           {errors.curso && <ErrorMessage>{errors.curso}</ErrorMessage>}
 
-          <Button type="button" onClick={sendImageToBackend}>
-            Enviar
+          <Button type="button" onClick={sendImageToBackend} disabled={isSubmitting}>
+            {isSubmitting ? <Spinner /> : 'Enviar'}
           </Button>
         </Form>
       </FormContainer>
@@ -296,6 +377,12 @@ const CameraCapture = () => {
           </>
         )}
       </VideoContainer>
+        {isModalOpen && modalType === "error" && (
+        <ErrorModal onClose={() => setIsModalOpen(false)} />
+        )}
+        {isModalOpen && modalType === "success" && (
+          <SuccessModal onClose={() => setIsModalOpen(false)} clearForm={clearForm}/>
+        )}
     </Container>
   );
 };
