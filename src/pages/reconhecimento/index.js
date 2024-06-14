@@ -86,7 +86,6 @@ const Spinner = styled.div`
 const VideoContainer = styled.div`
   flex: 1;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #1b1f23;
@@ -96,19 +95,47 @@ const VideoContainer = styled.div`
 
 const Video = styled.video`
   width: 100%;
-  max-width: 640px;
+  max-width: 860px;
   height: auto;
   transform: scaleX(-1); /* Espelhar horizontalmente */
   border: 3px solid #9acd32;
   border-radius: 8px;
 `;
 
+const CapturedImageContainer = styled.div`
+  text-align: center;
+  flex:1;
+`;
+
+const CapturedImage = styled.img`
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+`;
+
+const CaptureButtonContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adicionando um espaço superior para separar visualmente do conteúdo acima */
+`;
+
+const CaptureAnotherButton = styled(Button)`
+  padding: 15px 75px;
+  background-color: #9acd32;
+  color: #1b1f23;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #76b900;
+  }
+`;
 const Title = styled.h2`
   color: #9acd32;
   text-align: center;
   width:100%;
   font-size: 24px;
-  margin-bottom: 5%;
 `;
 
 // Estilo para a mensagem informativa
@@ -406,26 +433,31 @@ const CameraCapture = () => {
 
       <VideoContainer>
         {capturedImage ? (
-          <div>
-            <h2>Imagem Capturada:</h2>
-            <img src={capturedImage} alt="Imagem capturada" />
-            <Button type="button" onClick={discardImage}>
-              Tirar Outra Foto
-            </Button>
-          </div>
+          <CapturedImageContainer>
+            <Title>Imagem Capturada:</Title>
+            <CapturedImage src={capturedImage} alt="Imagem capturada" />
+            <CaptureButtonContainer>
+              <CaptureAnotherButton type="button" onClick={discardImage}>
+                Tirar Outra Foto
+              </CaptureAnotherButton>
+            </CaptureButtonContainer>
+        </CapturedImageContainer>
         ) : (
-          <>
+          <CapturedImageContainer>
             <Video ref={videoRef} autoPlay muted />
             <canvas
               ref={canvasRef}
-              width="320"
-              height="240"
+              width="860"
+              height="650"
               style={{ display: "none" }}
             />
+            <CaptureButtonContainer>
+
             <Button type="button" onClick={captureImage}>
-              Capturar Imagem
+              Tirar Foto
             </Button>
-          </>
+            </CaptureButtonContainer>
+            </CapturedImageContainer>
         )}
       </VideoContainer>
         {isModalOpen && modalType === "error" && (
