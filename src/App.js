@@ -1,9 +1,17 @@
-import logo from "./logo.svg";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import FaceRecognition from "./pages/reconhecimento";
+import ResultPage from "./pages/resultado";
 
 function App() {
-  return <FaceRecognition />;
+  return(
+    <BrowserRouter>
+      <Routes>
+      <Route index path="/" element={<FaceRecognition />} />
+      <Route path="/resultado-amf-games" element={<ResultPage />} />
+      </Routes>
+    </BrowserRouter>
+  )
 }
 
 export default App;
